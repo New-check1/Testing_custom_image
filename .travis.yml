@@ -2,7 +2,7 @@ os: linux
 dist: focal
 vm:
   create:
-    name: custom_Pankaj_0090_example
+    name: custom_Pankaj_00901_example
 before_install:
   - sudo apt-get -y install libxml2-dev
 addons:
